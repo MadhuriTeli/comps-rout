@@ -1,5 +1,5 @@
 import { GoBell, GoBroadcast, GoDatabase } from 'react-icons/go';
-import Button from './components/Button';
+import Button from './/components/Button';
 
 function App() {
   const handleClick = () => {
